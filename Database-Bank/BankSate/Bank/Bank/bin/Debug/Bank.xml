@@ -1,0 +1,741 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Bank
+</name>
+</assembly>
+<members>
+<member name="T:Bank.My.Resources.Resources">
+<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member>
+<member name="P:Bank.My.Resources.Resources.ResourceManager">
+<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member>
+<member name="P:Bank.My.Resources.Resources.Culture">
+<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member>
+<member name="P:Bank.My.Resources.Resources.maxresdefault__1_">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.ContributionsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.ContributorsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.CurrencyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.PositionsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Workers1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.CintributionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Contributions1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.ContributorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Contributors1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Currency_filter_EURDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Currency_filter_UAHDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Currency_filter_USDDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Currency1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Department_of_CaldasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Deposit_account_with_separate_deposits_121DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Deposit_account_with_separate_deposits_122DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Deposit_account_with_separate_deposits_142DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Deposit_account_with_separate_deposits_154DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Deposit_account_with_separate_deposits_221DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Deposit_account_with_separate_deposits_242DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Deposit_return_filter_is_not_returnedDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Deposit_Return_Filter_ReturnedDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet._Filter_for_employees_Cashier_operatsionistDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Filter_for_employees_DirectorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Filter_for_employees_FinancierDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Filter_for_employees_ManagerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Filter_for_employees_SecurityDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Positions1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.WorkersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Відображення_вкладів_по_Deposit_cod_DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Відображення_вкладників_по_ПІБDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Відображення_працівників_по_ПІБDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Функция_отбора_по_возрастуDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.ContributionsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.ContributorsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.CurrencyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.PositionsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Workers1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.CintributionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Contributions1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.ContributorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Contributors1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Currency_filter_EURRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Currency_filter_UAHRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Currency_filter_USDRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Currency1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Department_of_CaldasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Deposit_account_with_separate_deposits_121Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Deposit_account_with_separate_deposits_122Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Deposit_account_with_separate_deposits_142Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Deposit_account_with_separate_deposits_154Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Deposit_account_with_separate_deposits_221Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Deposit_account_with_separate_deposits_242Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Deposit_return_filter_is_not_returnedRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Deposit_Return_Filter_ReturnedRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet._Filter_for_employees_Cashier_operatsionistRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Filter_for_employees_DirectorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Filter_for_employees_FinancierRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Filter_for_employees_ManagerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Filter_for_employees_SecurityRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Positions1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.WorkersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Відображення_вкладів_по_Deposit_cod_Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Відображення_вкладників_по_ПІБRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Відображення_працівників_по_ПІБRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Функция_отбора_по_возрастуRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.ContributionsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.ContributorsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.CurrencyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.PositionsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Workers1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.CintributionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Contributions1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.ContributorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Contributors1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Currency_filter_EURRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Currency_filter_UAHRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Currency_filter_USDRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Currency1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Department_of_CaldasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Deposit_account_with_separate_deposits_121RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Deposit_account_with_separate_deposits_122RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Deposit_account_with_separate_deposits_142RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Deposit_account_with_separate_deposits_154RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Deposit_account_with_separate_deposits_221RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Deposit_account_with_separate_deposits_242RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Deposit_return_filter_is_not_returnedRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Deposit_Return_Filter_ReturnedRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet._Filter_for_employees_Cashier_operatsionistRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Filter_for_employees_DirectorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Filter_for_employees_FinancierRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Filter_for_employees_ManagerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Filter_for_employees_SecurityRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Positions1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.WorkersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Відображення_вкладів_по_Deposit_cod_RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Відображення_вкладників_по_ПІБRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Відображення_працівників_по_ПІБRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSet.Функция_отбора_по_возрастуRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.ContributionsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.ContributorsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.CurrencyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.PositionsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Workers1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.CintributionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Contributions1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.ContributorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Contributors1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Currency_filter_EURTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Currency_filter_UAHTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Currency_filter_USDTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Currency1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Department_of_CaldasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Deposit_account_with_separate_deposits_121TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Deposit_account_with_separate_deposits_122TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Deposit_account_with_separate_deposits_142TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Deposit_account_with_separate_deposits_154TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Deposit_account_with_separate_deposits_221TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Deposit_account_with_separate_deposits_242TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Deposit_return_filter_is_not_returnedTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Deposit_Return_Filter_ReturnedTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Filter_for_employees_Cashier_operatsionistTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Filter_for_employees_DirectorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Filter_for_employees_FinancierTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Filter_for_employees_ManagerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Filter_for_employees_SecurityTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Positions1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.WorkersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Відображення_вкладів_по_Deposit_cod_TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Відображення_вкладників_по_ПІБTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Відображення_працівників_по_ПІБTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.Функция_отбора_по_возрастуTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.QueriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Bank.BankDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Bank.BankDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Bank.BankDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Bank.BankDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Bank.BankDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Bank.BankDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Bank.BankDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Bank.BankDataSetTableAdapters.TableAdapterManager.UpdateAll(Bank.BankDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Bank.BankDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

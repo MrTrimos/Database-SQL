@@ -1,0 +1,278 @@
+c:\users\anton\documents\visual studio 2012\Projects\Bank\Bank\bin\Debug\Bank.exe.config
+c:\users\anton\documents\visual studio 2012\Projects\Bank\Bank\obj\Debug\Bank.Resources.resources
+c:\users\anton\documents\visual studio 2012\Projects\Bank\Bank\obj\Debug\Bank.vbproj.GenerateResource.Cache
+c:\users\anton\documents\visual studio 2012\Projects\Bank\Bank\bin\Debug\Bank.exe
+c:\users\anton\documents\visual studio 2012\Projects\Bank\Bank\bin\Debug\Bank.pdb
+c:\users\anton\documents\visual studio 2012\Projects\Bank\Bank\bin\Debug\Bank.xml
+c:\users\anton\documents\visual studio 2012\Projects\Bank\Bank\obj\Debug\Bank.Form1.resources
+c:\users\anton\documents\visual studio 2012\Projects\Bank\Bank\obj\Debug\Bank.exe
+c:\users\anton\documents\visual studio 2012\Projects\Bank\Bank\obj\Debug\Bank.xml
+c:\users\anton\documents\visual studio 2012\Projects\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\anton\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.Банк.resources
+C:\Users\anton\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.Form2.resources
+C:\Users\anton\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.Form3.resources
+C:\Users\anton\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.Form4.resources
+C:\Users\anton\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.Form5.resources
+C:\Users\anton\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.Form6.resources
+C:\Users\anton\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.Form7.resources
+C:\Users\anton\Documents\Visual Studio 2012\Projects\Bank\Bank\obj\Debug\Bank.Form8.resources
+C:\Users\anton\documents\visual studio 2012\Projects\Bank\Bank\obj\Debug\Bank.Form9.resources
+C:\Users\anton\documents\visual studio 2012\Projects\Bank\Bank\obj\Debug\Bank.Form10.resources
+C:\Users\anton\documents\visual studio 2012\Projects\Bank\Bank\obj\Debug\Bank.Form11.resources
+C:\Users\anton\documents\visual studio 2012\Projects\Bank\Bank\obj\Debug\Bank.Form12.resources
+C:\Users\Admin\Desktop\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\Admin\Desktop\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\Admin\Desktop\Bank\Bank\obj\Debug\Bank.xml
+C:\Users\Admin\Desktop\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\Admin\Desktop\Bank\Bank\obj\Debug\Bank.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Bank\Bank\obj\Debug\Bank.Form1.resources
+C:\Users\Admin\Desktop\Bank\Bank\obj\Debug\Bank.Form10.resources
+C:\Users\Admin\Desktop\Bank\Bank\obj\Debug\Bank.Form11.resources
+C:\Users\Admin\Desktop\Bank\Bank\obj\Debug\Bank.Form12.resources
+C:\Users\Admin\Desktop\Bank\Bank\obj\Debug\Bank.Form13.resources
+C:\Users\Admin\Desktop\Bank\Bank\obj\Debug\Bank.Form14.resources
+C:\Users\Admin\Desktop\Bank\Bank\obj\Debug\Bank.Form2.resources
+C:\Users\Admin\Desktop\Bank\Bank\obj\Debug\Bank.Form3.resources
+C:\Users\Admin\Desktop\Bank\Bank\obj\Debug\Bank.Form4.resources
+C:\Users\Admin\Desktop\Bank\Bank\obj\Debug\Bank.Form5.resources
+C:\Users\Admin\Desktop\Bank\Bank\obj\Debug\Bank.Form6.resources
+C:\Users\Admin\Desktop\Bank\Bank\obj\Debug\Bank.Form7.resources
+C:\Users\Admin\Desktop\Bank\Bank\obj\Debug\Bank.Form8.resources
+C:\Users\Admin\Desktop\Bank\Bank\obj\Debug\Bank.Form9.resources
+C:\Users\Admin\Desktop\Bank\Bank\obj\Debug\Bank.Resources.resources
+C:\Users\Admin\Desktop\Bank\Bank\obj\Debug\Bank.Банк.resources
+C:\Users\Admin\Desktop\Bank\Bank\obj\Debug\Bank.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Bank\Bank\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\Bank\Bank\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Desktop\Bank\Bank\obj\Debug\Bank.Form15.resources
+C:\Users\Admin\Desktop\Bank\Bank\obj\Debug\Bank.Form16.resources
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\Bank.xml
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\Bank.vbprojResolveAssemblyReference.cache
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\Bank.Form1.resources
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\Bank.Form10.resources
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\Bank.Form11.resources
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\Bank.Form12.resources
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\Bank.Form13.resources
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\Bank.Form14.resources
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\Bank.Form15.resources
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\Bank.Form16.resources
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\Bank.Form17.resources
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\Bank.Form18.resources
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\Bank.Form2.resources
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\Bank.Form3.resources
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\Bank.Form4.resources
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\Bank.Form5.resources
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\Bank.Form6.resources
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\Bank.Form7.resources
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\Bank.Form8.resources
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\Bank.Form9.resources
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\Bank.Resources.resources
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\Bank.Банк.resources
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\Bank.vbproj.GenerateResource.Cache
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\RdlCompile.cache
+C:\Users\anton\Desktop\БАза отчоты\Bank\Bank\obj\Debug\RdlCompile.compiled
+D:\Новая папка (2)\Bank\Bank\bin\Debug\Bank.exe.config
+D:\Новая папка (2)\Bank\Bank\obj\Debug\Bank.exe
+D:\Новая папка (2)\Bank\Bank\obj\Debug\Bank.xml
+D:\Новая папка (2)\Bank\Bank\obj\Debug\Bank.pdb
+D:\Новая папка (2)\Bank\Bank\obj\Debug\Bank.vbprojResolveAssemblyReference.cache
+D:\Новая папка (2)\Bank\Bank\obj\Debug\Bank.Form1.resources
+D:\Новая папка (2)\Bank\Bank\obj\Debug\Bank.Form10.resources
+D:\Новая папка (2)\Bank\Bank\obj\Debug\Bank.Form11.resources
+D:\Новая папка (2)\Bank\Bank\obj\Debug\Bank.Form12.resources
+D:\Новая папка (2)\Bank\Bank\obj\Debug\Bank.Form13.resources
+D:\Новая папка (2)\Bank\Bank\obj\Debug\Bank.Form14.resources
+D:\Новая папка (2)\Bank\Bank\obj\Debug\Bank.Form15.resources
+D:\Новая папка (2)\Bank\Bank\obj\Debug\Bank.Form16.resources
+D:\Новая папка (2)\Bank\Bank\obj\Debug\Bank.Form17.resources
+D:\Новая папка (2)\Bank\Bank\obj\Debug\Bank.Form18.resources
+D:\Новая папка (2)\Bank\Bank\obj\Debug\Bank.Form2.resources
+D:\Новая папка (2)\Bank\Bank\obj\Debug\Bank.Form3.resources
+D:\Новая папка (2)\Bank\Bank\obj\Debug\Bank.Form4.resources
+D:\Новая папка (2)\Bank\Bank\obj\Debug\Bank.Form5.resources
+D:\Новая папка (2)\Bank\Bank\obj\Debug\Bank.Form6.resources
+D:\Новая папка (2)\Bank\Bank\obj\Debug\Bank.Form7.resources
+D:\Новая папка (2)\Bank\Bank\obj\Debug\Bank.Form8.resources
+D:\Новая папка (2)\Bank\Bank\obj\Debug\Bank.Form9.resources
+D:\Новая папка (2)\Bank\Bank\obj\Debug\Bank.Resources.resources
+D:\Новая папка (2)\Bank\Bank\obj\Debug\Bank.Банк.resources
+D:\Новая папка (2)\Bank\Bank\obj\Debug\Bank.vbproj.GenerateResource.Cache
+D:\Новая папка (2)\Bank\Bank\bin\Debug\Bank.exe
+D:\Новая папка (2)\Bank\Bank\bin\Debug\Bank.pdb
+D:\Новая папка (2)\Bank\Bank\bin\Debug\Bank.xml
+D:\Новая папка (2)\Bank\Bank\obj\Debug\RdlCompile.cache
+D:\Новая папка (2)\Bank\Bank\obj\Debug\RdlCompile.compiled
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.xml
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\bin\Debug\Bank.xml
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.vbprojResolveAssemblyReference.cache
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form1.resources
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form10.resources
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form11.resources
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form12.resources
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form13.resources
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form14.resources
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form15.resources
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form16.resources
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form17.resources
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form18.resources
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form2.resources
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form3.resources
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form4.resources
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form5.resources
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form6.resources
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form7.resources
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form8.resources
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form9.resources
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Resources.resources
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Банк.resources
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.vbproj.GenerateResource.Cache
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\RdlCompile.cache
+C:\Users\anton\Desktop\БАза готова\Bank\Bank\obj\Debug\RdlCompile.compiled
+F:\000000\БАза готова\Bank\Bank\bin\Debug\Bank.exe.config
+F:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.exe
+F:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.xml
+F:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.pdb
+G:\000000\БАза готова\Bank\Bank\bin\Debug\Bank.exe.config
+G:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.exe
+G:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.xml
+G:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.pdb
+G:\000000\БАза готова\Bank\Bank\bin\Debug\Bank.exe
+G:\000000\БАза готова\Bank\Bank\bin\Debug\Bank.pdb
+G:\000000\БАза готова\Bank\Bank\bin\Debug\Bank.xml
+G:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.vbprojResolveAssemblyReference.cache
+G:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form1.resources
+G:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form10.resources
+G:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form11.resources
+G:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form12.resources
+G:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form13.resources
+G:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form14.resources
+G:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form15.resources
+G:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form16.resources
+G:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form17.resources
+G:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form18.resources
+G:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form2.resources
+G:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form3.resources
+G:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form4.resources
+G:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form5.resources
+G:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form6.resources
+G:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form7.resources
+G:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form8.resources
+G:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form9.resources
+G:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Resources.resources
+G:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Банк.resources
+G:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.vbproj.GenerateResource.Cache
+G:\000000\БАза готова\Bank\Bank\obj\Debug\RdlCompile.cache
+G:\000000\БАза готова\Bank\Bank\obj\Debug\RdlCompile.compiled
+F:\000000\БАза готова\Bank\Bank\bin\Debug\Bank.exe
+F:\000000\БАза готова\Bank\Bank\bin\Debug\Bank.pdb
+F:\000000\БАза готова\Bank\Bank\bin\Debug\Bank.xml
+F:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.vbprojResolveAssemblyReference.cache
+F:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form1.resources
+F:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form10.resources
+F:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form11.resources
+F:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form12.resources
+F:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form13.resources
+F:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form14.resources
+F:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form15.resources
+F:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form16.resources
+F:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form17.resources
+F:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form18.resources
+F:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form2.resources
+F:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form3.resources
+F:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form4.resources
+F:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form5.resources
+F:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form6.resources
+F:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form7.resources
+F:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form8.resources
+F:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form9.resources
+F:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Resources.resources
+F:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Банк.resources
+F:\000000\БАза готова\Bank\Bank\obj\Debug\Bank.vbproj.GenerateResource.Cache
+F:\000000\БАза готова\Bank\Bank\obj\Debug\RdlCompile.cache
+F:\000000\БАза готова\Bank\Bank\obj\Debug\RdlCompile.compiled
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.vbprojAssemblyReference.cache
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form1.resources
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form10.resources
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form11.resources
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form12.resources
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form13.resources
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form14.resources
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form15.resources
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form16.resources
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form17.resources
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form18.resources
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form2.resources
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form3.resources
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form4.resources
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form5.resources
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form6.resources
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form7.resources
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form8.resources
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Form9.resources
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Resources.resources
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.Банк.resources
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.vbproj.GenerateResource.cache
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.vbproj.CoreCompileInputs.cache
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.exe
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.xml
+D:\Учоба\Флешка\000000\БАза готова\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.vbprojAssemblyReference.cache
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form1.resources
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form10.resources
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form11.resources
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form12.resources
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form13.resources
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form14.resources
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form15.resources
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form16.resources
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form17.resources
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form18.resources
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form2.resources
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form3.resources
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form4.resources
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form5.resources
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form6.resources
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form7.resources
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form8.resources
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Form9.resources
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Resources.resources
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.Банк.resources
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.vbproj.GenerateResource.cache
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.vbproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.xml
+C:\Users\anton\OneDrive\Desktop\БАза готова\Bank\Bank\obj\Debug\Bank.pdb
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.vbprojAssemblyReference.cache
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.Form1.resources
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.Form10.resources
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.Form11.resources
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.Form12.resources
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.Form13.resources
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.Form14.resources
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.Form15.resources
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.Form16.resources
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.Form17.resources
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.Form18.resources
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.Form2.resources
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.Form3.resources
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.Form4.resources
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.Form5.resources
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.Form6.resources
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.Form7.resources
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.Form8.resources
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.Form9.resources
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.Resources.resources
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.Банк.resources
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.vbproj.GenerateResource.cache
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.vbproj.CoreCompileInputs.cache
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.exe
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.xml
+D:\Проэкты\БАза готова\Bank\Bank\obj\Debug\Bank.pdb
